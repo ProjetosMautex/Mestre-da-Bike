@@ -414,6 +414,14 @@ export const products: Product[] = [
     affiliateUrl: "https://meli.la/2uNGCh7",
     category: "Iniciantes/Urbano",
     features: ["Quadro em Alumínio", "21 Marchas Shimano", "Freio a Disco"]
+  },
+  {
+    id: "bicicleta-aro-29-cripto-24-marchas",
+    name: "Bicicleta Aro 29 Cripto 24 Marchas Freio Disco E Suspensão",
+    description: "Bicicleta Aro 29 Cripto 24 Marchas",
+    imageUrl: "/images/blog/1/Bicicleta Aro 29 Cripto 24 Marchas Freio Disco E Suspensão.webp",
+    affiliateUrl: "https://meli.la/1Tk1uCF",
+    category: "Iniciantes/Lazer"
   }
 ];
 

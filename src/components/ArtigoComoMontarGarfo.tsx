@@ -26,7 +26,7 @@ export const ArtigoComoMontarGarfo: React.FC = () => {
             <span className="text-cyan-400">Passo a Passo</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/lucas-almeida" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/lucas-almeida/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Lucas Almeida.webp" alt="Lucas Almeida" className="w-full h-full object-cover" />
               </div>

@@ -8,159 +8,164 @@ export interface Article {
 export const articles: Article[] = [
   {
     title: "Qual a Melhor Bicicleta Aro 29? Top 8 Custo-Benefício (2026)",
-    url: "/melhores-bicicletas-aro-29",
+    url: "/melhores-bicicletas-aro-29/",
     image: "/images/blog/1/principal.webp",
     excerpt: "Descubra quais são as melhores bicicletas aro 29 do mercado e encontre o modelo ideal para seu perfil e orçamento."
   },
   {
     title: "Bicicleta KSW Aro 29 é Boa? Descubra o Segredo dos Mecânicos!",
-    url: "/bicicleta-ksw-aro-29-e-boa",
+    url: "/bicicleta-ksw-aro-29-e-boa/",
     image: "/images/blog/1/ksw_card.webp",
     excerpt: "Você já reparou que o mercado está inundado de bicicletas com preços tentadores? Entenda se a KSW aguenta o tranco ou se é dinheiro jogado fora em nossa análise prática."
   },
   {
     title: "Bicicleta First Aro 29 é Boa? Vale a pena comprar?",
-    url: "/bicicleta-first-aro-29-e-boa",
+    url: "/bicicleta-first-aro-29-e-boa/",
     image: "/images/blog/1/first_card.webp",
     excerpt: "Bicicleta First aro 29 é boa? Analisamos os detalhes técnicos das versões Smitt Gold, comparamos com a Caloi Moab e Absolute Nero 4, e revelamos qual modelo vale o seu dinheiro."
   },
   {
     title: "Bicicleta Rava Aro 29 é Boa? Veja a Análise Completa!",
-    url: "/bicicleta-rava-aro-29-e-boa",
+    url: "/bicicleta-rava-aro-29-e-boa/",
     image: "/images/blog/1/rava_card.webp",
     excerpt: "Bicicleta Rava aro 29 é boa? Analisamos a suspensão e marchas da Pressure e Up, e comparamos com Caloi e Absolute para descobrir o melhor custo-benefício."
   },
   {
     title: "Bicicleta Dropp Aro 29 é Boa? O Que Não Te Contam na Loja!",
-    url: "/bicicleta-dropp-aro-29-e-boa",
+    url: "/bicicleta-dropp-aro-29-e-boa/",
     image: "/images/blog/1/dropp_card.webp",
     excerpt: "A Dropp Z3 é a bike certa para o seu pedal ou vai te dar dor de cabeça no primeiro morro? Confira a análise de um mecânico sobre peças, segurança e custo-benefício."
   },
   {
     title: "Bicicleta GTS Pro M5 Aro 29 é Boa? Vale o Seu Dinheiro?",
-    url: "/bicicleta-gts-pro-m5-aro-29-e-boa",
+    url: "/bicicleta-gts-pro-m5-aro-29-e-boa/",
     image: "/images/blog/1/gts_pro_m5_card.webp",
     excerpt: "A bicicleta GTS Pro M5 aro 29 vale o seu suado dinheiro ou a KSW é melhor? Confira a opinião sincera de um mecânico sobre prós, contras e manutenção real."
   },
   {
     title: "Bicicleta GTA Aro 29 é Boa? Veredicto Após Avaliação!",
-    url: "/bicicleta-gta-aro-29-e-boa",
+    url: "/bicicleta-gta-aro-29-e-boa/",
     image: "/images/blog/1/GTA Start aro 29 21v e boa.webp",
     excerpt: "Descubra se a bicicleta GTA aro 29 é a escolha certa para começar no ciclismo ou se alternativas como a KSW atendem melhor sua rotina."
   },
   {
     title: "Melhor Pneu para Bike Aro 29 (7 Modelos Recomendados)",
-    url: "/melhor-pneu-para-bike-aro-29",
+    url: "/melhor-pneu-para-bike-aro-29/",
     image: "/images/blog/1/melhor pneu para bike aro 29.webp",
     excerpt: "Cansado de perder desempenho, fazer força à toa ou furar câmara toda semana? Descubra como um mecânico escolhe o melhor pneu aro 29 para o seu estilo de pedal!"
   },
   {
     title: "Melhor Relação para Bike aro 29 (4 Modelos Recomendados)",
-    url: "/melhor-relacao-para-bike-29",
+    url: "/melhor-relacao-para-bike-29/",
     image: "/images/blog/1/melhor-relacao-para-bike-29.webp",
     excerpt: "Cansado de marchas imprecisas ou subidas sofridas? Nosso mecânico explica como escolher a relação de marchas perfeita para sua bike 29 e transformará seu pedal."
   },
   {
     title: "Melhor suspensão para bike aro 29 (8 Modelos Recomendados)",
-    url: "/melhor-suspensao-para-bike-aro-29",
+    url: "/melhor-suspensao-para-bike-aro-29/",
     image: "/images/blog/1/melhor-suspensao-para-bike-aro-29.webp",
     excerpt: "Descubra qual a melhor suspensão para sua aro 29. Compare garfos a ar, mola, RockShox, Absolute e outras opções com excelente custo-benefício."
   },
   {
     title: "Bicicleta GTI Roma Aro 29 é Boa? Cuidado Antes de Comprar!",
-    url: "/bike-gti-roma-aro-29-e-boa",
+    url: "/bike-gti-roma-aro-29-e-boa/",
     image: "/images/blog/1/bike-gti-roma-aro-29-e-boa.webp",
     excerpt: "Dúvida entre a GTI Roma ou KSW? Descobri o que realmente muda no seu pedal e qual mountain bike de entrada entrega o melhor custo-benefício. Vem conferir!"
   },
   {
     title: "Melhor guidão para bike aro 29 (10 Modelos Recomendados)",
-    url: "/melhor-guidao-para-bike-aro-29",
+    url: "/melhor-guidao-para-bike-aro-29/",
     image: "/images/blog/1/melhor-guidao-para-bike-aro-29.webp",
     excerpt: "Cansado de dor nas costas ou falta de controle na sua aro 29? O nosso mecânico explica de forma simples como escolher o guidão ideal. Confere as 10 melhores opções e zere suas dores!"
   },
   {
     title: "Bicicleta Colli Toronto Aro 29 é Boa? Avaliação Honesta!",
-    url: "/bicicleta-colli-toro-aro-29-e-boa",
+    url: "/bicicleta-colli-toro-aro-29-e-boa/",
     image: "/images/blog/1/bicicleta-colli-toro-aro-29-e-boa.webp",
     excerpt: "A Colli Toronto se posiciona como uma parceira estratégica para quem quer aposentar o ônibus. Veja nossa análise mecânica completa e descubra se ela aguenta o seu dia a dia!"
   },
   {
     title: "bicicleta gt sprint mx7 aro 29 é boa? Vale o Seu Dinheiro?",
-    url: "/bicicleta-gt-sprint-mx7-aro-29-e-boa",
+    url: "/bicicleta-gt-sprint-mx7-aro-29-e-boa/",
     image: "/images/blog/1/bicicleta-29-gt-sprint-mx7-e-boa.webp",
     excerpt: "Descubra se a bicicleta GT Sprint MX7 aro 29 é uma boa opção de custo-benefício ou se vale a pena investir em outros modelos de entrada para suas trilhas."
   },
   {
     title: "Qual o Tamanho do Quadro da Bicicleta Aro 29? Tabela e Guia",
-    url: "/qual-o-tamanho-do-quadro-da-bicicleta-aro-29",
+    url: "/qual-o-tamanho-do-quadro-da-bicicleta-aro-29/",
     image: "/images/blog/1/tabela-medidas-quadro-bicicleta-aro-29-pt.webp",
     excerpt: "Dúvida sobre o tamanho do quadro aro 29? Descubra o segredo mecânico para calcular sua medida ideal e fuja das dores nas costas ao pedalar!"
   },
   {
     title: "Bicicleta Aro 29 é para qual idade? Descubra o tamanho ideal",
-    url: "/bicicleta-aro-29-e-para-qual-idade",
+    url: "/bicicleta-aro-29-e-para-qual-idade/",
     image: "/images/blog/1/bicicleta-aro-29-e-para-qual-idade.webp",
     excerpt: "Descubra se a bicicleta aro 29 é indicada para você ou seu filho. Aprenda como a altura influencia mais que a idade na escolha do tamanho ideal."
   },
   {
     title: "Bicicleta Aro 26 ou 29: Qual Melhor para Você",
-    url: "/bicicleta-aro-26-ou-29-qual-o-melhor",
+    url: "/bicicleta-aro-26-ou-29-qual-o-melhor/",
     image: "/images/blog/1/bicicleta-aro-26-ou-29-qual-o-melhor.webp",
     excerpt: "Bicicleta aro 26 ou 29: qual escolher? Entenda as diferenças na prática, saiba como o tamanho da roda impacta no trajeto e escolha a bike ideal para o seu pedal."
   },
   {
     title: "Como Montar Bicicleta Aro 29 do Zero (Guia Passo a Passo)",
-    url: "/como-montar-bicicleta-aro-29",
+    url: "/como-montar-bicicleta-aro-29/",
     image: "/images/blog/1/como-montar-bicicleta-aro-29.webp",
     excerpt: "Aprenda o passo a passo completo de como montar bicicleta aro 29 do zero em casa. Ferramentas, organização e ajustes precisos para um pedal seguro."
   },
   {
     title: "Como Regular Marcha de Bicicleta Aro 29 Guia Passo a Passo",
-    url: "/como-regular-marcha-de-bicicleta-aro-29",
+    url: "/como-regular-marcha-de-bicicleta-aro-29/",
     image: "/images/blog/1/como-regular-marcha-de-bicicleta-aro-29.webp",
     excerpt: "Cansado de correntes saltando e ruídos na bike? Aprenda a regular as marchas da sua aro 29 com nosso guia definitivo e recupere a suavidade do seu pedal."
   },
   {
     title: "Como Passar Marcha de Bicicleta Aro 29 Guia Prático",
-    url: "/como-passar-marcha-de-bicicleta-aro-29",
+    url: "/como-passar-marcha-de-bicicleta-aro-29/",
     image: "/images/blog/1/como-passar-marcha-de-bicicleta-aro-29.webp",
     excerpt: "Aprenda na prática como trocar as marchas da sua bicicleta aro 29. Domine o sistema, poupe energia nas subidas e acabe com os estalos na corrente!"
   },
   {
     title: "Como Colocar Corrente em Bike Aro 29 (Passo a Passo Fácil)",
-    url: "/como-colocar-corrente-em-bike-aro-29",
+    url: "/como-colocar-corrente-em-bike-aro-29/",
     image: "/images/blog/1/como-colocar-corrente-em-bike-aro-29.webp",
     excerpt: "Aprenda como colocar corrente em bike aro 29 com este guia prático. Evite falhas mecânicas, ganhe autonomia e garanta trocas de marcha suaves hoje mesmo!"
   },
   {
     title: "Como Dar Grau de Bike Aro 29 Passo a Passo Completo",
-    url: "/como-dar-grau-de-bike-aro-29",
+    url: "/como-dar-grau-de-bike-aro-29/",
     image: "/images/blog/1/como-dar-grau-de-bike-aro-29.webp",
     excerpt: "Dominar o equilíbrio sobre a roda traseira é o sonho de muita gente que pedala e quer ter um controle maior sobre a bicicleta. Na prática do dia a dia, aprender a dar grau em uma aro 29 exige muito mais técnica e paciência do que força bruta nos braços."
   },
   {
     title: "Como Colocar Cesta na Bicicleta Aro 29 (Com Amortecedor)",
-    url: "/como-colocar-cesta-na-bicicleta-aro-29",
+    url: "/como-colocar-cesta-na-bicicleta-aro-29/",
     image: "/images/blog/1/como-colocar-cesta-na-bicicleta-aro-29.webp",
     excerpt: "Quer levar carga na sua aro 29 sem perder a estabilidade e a leveza? Aprenda a dica de ouro da oficina para colocar cesta com amortecedor e rodar seguro!"
   },
   {
     title: "Como Rebaixar a Suspensão da Bike Aro 29 em 3 Passos Seguros",
-    url: "/como-rebaixar-a-suspensao-da-bike-aro-29",
+    url: "/como-rebaixar-a-suspensao-da-bike-aro-29/",
     image: "/images/blog/1/como-rebaixar-a-suspensao-da-bike-aro-29.webp",
     excerpt: "Quer rebaixar a suspensão da sua bike aro 29 para ganhar performance? Descubra o passo a passo seguro para ajustar sua geometria e pilotar com precisão."
   },
   {
     title: "Como Destravar Amortecedor de Bicicleta Aro 29 em Casa",
-    url: "/como-destravar-amortecedor-de-bicicleta-aro-29",
+    url: "/como-destravar-amortecedor-de-bicicleta-aro-29/",
     image: "/images/blog/1/como-destravar-amortecedor-de-bicicleta-aro-29.webp",
     excerpt: "A suspensão da sua bike aro 29 travou e ficou dura? Aprenda passo a passo a diagnosticar o problema, realizar a manutenção em casa e descubra quando trocar por um garfo rígido."
   },
   {
     title: "Como Montar o Garfo da Bicicleta Aro 29 Passo a Passo",
-    url: "/como-montar-o-garfo-da-bicicleta-aro-29",
+    url: "/como-montar-o-garfo-da-bicicleta-aro-29/",
     image: "/images/blog/1/como-montar-o-garfo-da-bicicleta-aro-29.webp",
     excerpt: "Aprenda na prática como montar o garfo da bicicleta aro 29 passo a passo. Descubra os segredos mecânicos para eliminar folgas e garantir um pedal perfeito!"
+  },
+  {
+    title: "Bicicleta Cripto Aro 29 é Boa? Análise de Freios e Marchas",
+    url: "/bicicleta-cripto-aro-29-e-boa/",
+    image: "/images/blog/1/bicicleta-cripto-aro-29-e-boa.webp",
+    excerpt: "A Bicicleta Cripto Aro 29 é boa para o seu dia a dia? Descubra a verdade sobre as marchas Paco, trocadores rotativos e se ela exige upgrades antes do primeiro pedal!"
   }
 ];
-

@@ -26,7 +26,7 @@ export const ArtigoComoColocarCesta: React.FC = () => {
             <span className="text-cyan-400">(Com Amortecedor)</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-full h-full object-cover" />
               </div>

@@ -73,7 +73,7 @@ export const ArtigoBicicletaAro26Ou29QualOMelhor: React.FC = () => {
             <span className="text-cyan-400">Qual Melhor para Você</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/lucas-almeida" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/lucas-almeida/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Lucas Almeida.webp" alt="Lucas Almeida" className="w-full h-full object-cover" />
               </div>
@@ -289,7 +289,7 @@ export const ArtigoBicicletaAro26Ou29QualOMelhor: React.FC = () => {
           <div className="mt-12 p-6 bg-cyan-950/20 border border-cyan-900/50 rounded-2xl shadow-sm not-prose">
             <h3 className="text-xl font-bold text-white mb-2">Decidiu ir de aro 29?</h3>
             <p className="text-zinc-300">
-              Se você chegou à conclusão de que uma roda maior é a melhor escolha para o seu perfil, não compre no escuro. Confira nosso guia definitivo com as <a href="/melhores-bicicletas-aro-29" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">Melhores Bicicletas Aro 29 do mercado</a>, onde analisamos o custo-benefício de verdade para o seu bolso.
+              Se você chegou à conclusão de que uma roda maior é a melhor escolha para o seu perfil, não compre no escuro. Confira nosso guia definitivo com as <a href="/melhores-bicicletas-aro-29/" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">Melhores Bicicletas Aro 29 do mercado</a>, onde analisamos o custo-benefício de verdade para o seu bolso.
             </p>
           </div>
         </div>

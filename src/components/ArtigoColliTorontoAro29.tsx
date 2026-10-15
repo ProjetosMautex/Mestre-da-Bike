@@ -75,7 +75,7 @@ export const ArtigoColliTorontoAro29: React.FC = () => {
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
             <span className="flex items-center gap-2">
               <span>Por</span>
-              <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors font-semibold group">
+              <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors font-semibold group">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-8 h-8 rounded-full border-2 border-transparent group-hover:border-cyan-400 transition-colors object-cover" />
                 Rafael Martins
               </a>

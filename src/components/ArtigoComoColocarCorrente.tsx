@@ -26,7 +26,7 @@ export const ArtigoComoColocarCorrente: React.FC = () => {
             <span className="text-cyan-400">(Passo a Passo Fácil)</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/lucas-almeida" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/lucas-almeida/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Lucas Almeida.webp" alt="Lucas Almeida" className="w-full h-full object-cover" />
               </div>
@@ -165,7 +165,7 @@ export const ArtigoComoColocarCorrente: React.FC = () => {
           <p>Na prática, manter a relação da bike em dia é a melhor forma de não rasgar dinheiro.</p>
           <p>Uma corrente gasta (elastecida) começa a comer o formato dos dentes do seu cassete e das coroas.</p>
           <p>Quando você for notar, vai precisar trocar a relação inteira, o que pesa muito no bolso.</p>
-          <p>Se você está pensando em fazer um upgrade completo, não deixe de conferir nosso guia sobre a <a href="/melhor-relacao-para-bike-29" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">melhor relação para bike aro 29</a>.</p>
+          <p>Se você está pensando em fazer um upgrade completo, não deixe de conferir nosso guia sobre a <a href="/melhor-relacao-para-bike-29/" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">melhor relação para bike aro 29</a>.</p>
           <p>O grande segredo é ter uma chavinha medidora de desgaste e conferir a folga da corrente mensalmente.</p>
           <p>Lavar a relação frequentemente também é vital; pedalar com areia triturando o sistema destrói a bike.</p>
           <p>Cuidar preventivamente desses componentes transforma a sua experiência de pedal.</p>

@@ -92,7 +92,7 @@ export const MelhorGuidao: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-gray-300 text-sm md:text-base">
             <div className="flex items-center gap-2">
               <span>Por</span>
-              <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors font-semibold group">
+              <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors font-semibold group">
                 Rafael Martins
               </a>
             </div>

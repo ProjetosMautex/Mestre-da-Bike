@@ -20,7 +20,7 @@ const ArtigoComoMontarBicicletaAro29: React.FC = () => {
             <span className="text-cyan-400">(Guia Passo a Passo)</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-full h-full object-cover" />
               </div>
@@ -208,7 +208,7 @@ const ArtigoComoMontarBicicletaAro29: React.FC = () => {
           <p>Peças de plástico ruim disfarçadas sob adesivos bonitos vão colocar seus dentes em risco numa descida esburacada.</p>
           <p>A regra número um é priorizar o canal oficial da marca (lojagtsm1.com.br).</p>
           <p>Comprar da fonte elimina o risco de receber réplicas perigosas, garante que os furos de montagem batam perfeitamente na hora de instalar em casa e assegura o acionamento de garantias de quadro, caso você descubra algo errado na nossa fase de preparação.</p>
-          <p>Se você ainda está na fase de pesquisa, aproveite para ler a nossa análise completa e descubra se a <a href="/bicicleta-gts-pro-m5-aro-29-e-boa" className="text-cyan-400 hover:text-cyan-300 font-semibold underline decoration-cyan-500/30 hover:decoration-cyan-400 transition-colors">bicicleta GTS Pro M5 aro 29 é boa</a> antes de investir o seu dinheiro.</p>
+          <p>Se você ainda está na fase de pesquisa, aproveite para ler a nossa análise completa e descubra se a <a href="/bicicleta-gts-pro-m5-aro-29-e-boa/" className="text-cyan-400 hover:text-cyan-300 font-semibold underline decoration-cyan-500/30 hover:decoration-cyan-400 transition-colors">bicicleta GTS Pro M5 aro 29 é boa</a> antes de investir o seu dinheiro.</p>
           <h2>Ajuste Final do Banco (O Bike Fit Caseiro)</h2>
           <img src="/images/blog/1/ajuste-nivelamento-selim.webp" alt="Mecânico fazendo o ajuste fino do nivelamento horizontal do banco" loading="lazy" className="rounded-xl shadow-lg border border-cyan-900/30 my-6 w-full" />
           <p>A última etapa antes de ir para a rua é alinhar o seu corpo com a máquina.</p>

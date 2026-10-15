@@ -165,7 +165,7 @@ export const ArtigoMelhorPneuBikeAro29: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-gray-300 text-sm md:text-base">
             <div className="flex items-center gap-2">
               <a
-                href="/author/rafael-martins"
+                href="/author/rafael-martins/"
                 className="hover:opacity-80 transition-opacity"
               >
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp"
@@ -174,7 +174,7 @@ export const ArtigoMelhorPneuBikeAro29: React.FC = () => {
                 />
               </a>
               <a
-                href="/author/rafael-martins"
+                href="/author/rafael-martins/"
                 className="hover:text-cyan-400 transition-colors"
               >
                 Por Rafael Martins
@@ -1077,7 +1077,7 @@ export const ArtigoMelhorPneuBikeAro29: React.FC = () => {
         <div className="bg-cyan-950/20 p-8 rounded-2xl border border-cyan-900/50 shadow-sm mt-8 mb-16 flex flex-col md:flex-row items-center md:items-start gap-6">
           <div className="shrink-0 mx-auto md:mx-0">
             <a
-              href="/author/rafael-martins"
+              href="/author/rafael-martins/"
               className="hover:opacity-80 transition-opacity block"
             >
               <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp"
@@ -1091,7 +1091,7 @@ export const ArtigoMelhorPneuBikeAro29: React.FC = () => {
               Sobre o Autor
             </h2>
             <a
-              href="/author/rafael-martins"
+              href="/author/rafael-martins/"
               className="hover:text-cyan-400 transition-colors"
             >
               <h3 className="text-2xl font-bold text-white mb-4">

@@ -74,7 +74,7 @@ export const ArtigoGtSprintMx7Aro29: React.FC = () => {
             <span className="text-cyan-400">Vale o Seu Dinheiro?</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-full h-full object-cover" />
               </div>
@@ -278,7 +278,7 @@ export const ArtigoGtSprintMx7Aro29: React.FC = () => {
           <div>
             <h2 className="text-sm font-bold text-cyan-400 uppercase tracking-widest mb-2">Sobre o Autor</h2>
             <h3 className="text-2xl font-bold text-white mb-4">
-              <a href="/author/rafael-martins" className="hover:text-cyan-400 transition-colors">Rafael Martins</a>
+              <a href="/author/rafael-martins/" className="hover:text-cyan-400 transition-colors">Rafael Martins</a>
             </h3>
             <p className="text-zinc-300 leading-relaxed text-lg">
               Rafael é um apaixonado por mecânica de bicicletas e ciclista inveterado. No balcão da oficina ou nas trilhas de final de semana, seu objetivo é traduzir o "mecaniquês" técnico e chato para ajudar as pessoas a não rasgarem dinheiro, escolhendo exatamente as peças que precisam. As recomendações aqui são fruto de mãos sujas de graxa, análise minuciosa de fichas oficiais e da vivência real de quem gasta o pneu no asfalto e na terra, defendendo sempre uma mobilidade mais inteligente e saudável.

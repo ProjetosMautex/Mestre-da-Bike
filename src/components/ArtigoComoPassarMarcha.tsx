@@ -26,7 +26,7 @@ export const ArtigoComoPassarMarcha: React.FC = () => {
             <span className="text-cyan-400">Guia Prático</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/lucas-almeida" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/lucas-almeida/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Lucas Almeida.webp" alt="Lucas Almeida" className="w-full h-full object-cover" />
               </div>
@@ -81,7 +81,7 @@ export const ArtigoComoPassarMarcha: React.FC = () => {
           <h2>Como funciona a troca de marchas da bicicleta?</h2>
           <p>Entender o coração da sua transmissão é o que vai te transformar de um iniciante que sofre nas ladeiras para um ciclista que flui pelo terreno.</p>
           <p>Em uma aro 29 tradicional, o seu sistema de marchas é comandado por dois polos: o câmbio dianteiro, que fica ali perto dos seus pés e é controlado pela mão esquerda, e o câmbio traseiro, lá na roda de trás, operado pela mão direita.</p>
-          <p>Gosto de explicar isso para o pessoal no Pedal na Trilha usando a regra do peso e do ajuste.</p>
+          <p>Gosto de explicar isso para o pessoal no Mestre da Bike usando a regra do peso e do ajuste.</p>
           <p>O lado esquerdo (coroas dianteiras) serve para mudanças brutas: ele define se a bicicleta vai ficar extremamente leve para escalar uma parede ou pesada para ganhar velocidade no asfalto.</p>
           <p>Já o lado direito (cassete traseiro) serve para fazer o "ajuste fino" dessa escolha.</p>
           <p>Compreender essa divisão de tarefas é o primeiro segredo para parar de esgotar suas pernas à toa.</p>
@@ -241,7 +241,7 @@ export const ArtigoComoPassarMarcha: React.FC = () => {
           <div className="mt-8 mb-12 p-6 bg-cyan-950/20 border border-cyan-900/50 rounded-2xl shadow-sm not-prose">
             <h3 className="text-xl font-bold text-white mb-2">Quer fazer um upgrade na sua transmissão?</h3>
             <p className="text-zinc-300">
-              Se você está pensando em adotar o sistema de coroa única ou apenas quer peças mais precisas, confira o nosso guia com a <a href="/melhor-relacao-para-bike-29" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">Melhor Relação para Bike aro 29</a>, onde o mecânico analisa os modelos que realmente valem o seu dinheiro.
+              Se você está pensando em adotar o sistema de coroa única ou apenas quer peças mais precisas, confira o nosso guia com a <a href="/melhor-relacao-para-bike-29/" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">Melhor Relação para Bike aro 29</a>, onde o mecânico analisa os modelos que realmente valem o seu dinheiro.
             </p>
           </div>
 

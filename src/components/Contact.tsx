@@ -64,8 +64,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-zinc-100">E-mail</h3>
-                  <a href="mailto:contato@pedalnatrilha.com" className="text-cyan-400 hover:text-cyan-300 mt-1 block">
-                    contato@pedalnatrilha.com
+                  <a href="mailto:contato@mestredabike.com" className="text-cyan-400 hover:text-cyan-300 mt-1 block">
+                    contato@mestredabike.com
                   </a>
                 </div>
               </div>
@@ -78,7 +78,7 @@ export default function Contact() {
                   <h3 className="text-lg font-semibold text-zinc-100">Informações do Projeto</h3>
                   <ul className="text-zinc-400 mt-1 space-y-1">
                     <li><strong className="text-zinc-300">Responsável:</strong> Murilo Vieira</li>
-                    <li><strong className="text-zinc-300">Empresa/Projeto:</strong> Pedal na Trilha</li>
+                    <li><strong className="text-zinc-300">Empresa/Projeto:</strong> Mestre da Bike</li>
                     <li><strong className="text-zinc-300">Endereço:</strong> Sítio Pedrinhas, 50 – Zona Rural<br/>Venturosa, PE – CEP 55270-000</li>
                   </ul>
                 </div>
@@ -88,7 +88,7 @@ export default function Contact() {
             <div className="mt-12 bg-[#18181b] p-6 rounded-xl border border-cyan-900/30">
               <h3 className="text-xl font-bold text-zinc-100 mb-4">Sugestões, Correções e Atualizações</h3>
               <p className="text-zinc-400 text-sm mb-4 leading-relaxed">
-                O mercado de bicicletas está sempre mudando. Novos modelos são lançados, componentes podem ser atualizados e fabricantes podem modificar especificações de seus produtos. Por isso, a participação dos leitores é importante para manter o conteúdo do <strong>Pedal na Trilha</strong> cada vez mais preciso.
+                O mercado de bicicletas está sempre mudando. Novos modelos são lançados, componentes podem ser atualizados e fabricantes podem modificar especificações de seus produtos. Por isso, a participação dos leitores é importante para manter o conteúdo do <strong>Mestre da Bike</strong> cada vez mais preciso.
               </p>
               <h4 className="font-semibold text-zinc-200 mb-2">Antes de enviar sua mensagem</h4>
               <ul className="list-disc pl-5 text-zinc-400 text-sm space-y-2">

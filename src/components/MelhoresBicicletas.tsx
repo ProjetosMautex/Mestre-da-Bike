@@ -113,7 +113,7 @@ export const MelhoresBicicletas: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-gray-300 text-sm md:text-base">
             <div className="flex items-center gap-2">
               <span>Por</span>
-              <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors font-semibold group">
+              <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors font-semibold group">
                 Rafael Martins
               </a>
             </div>
@@ -660,10 +660,8 @@ export const MelhoresBicicletas: React.FC = () => {
             </div>
             
             <div className="prose prose-lg text-zinc-300 mt-8 mb-6">
-              <p>Como explicamos acima, a tabela abaixo mostra visualmente a relação exata entre a sua altura e o quadro ideal:</p>
+              <p>Use o simulador abaixo para descobrir o tamanho de quadro ideal para sua altura:</p>
             </div>
-            
-            <img loading="lazy" width="800" height="800" src="/images/blog/1/tabela-tamanho-quadro-bike-aro-29.webp" alt="Infográfico mostrando a tabela de tamanho de quadro por altura para bicicleta aro 29" className="w-full rounded-xl shadow-lg border border-zinc-700 mt-2 mb-8 object-contain bg-white" />
             
             <BikeFitSimulator />
           </div>

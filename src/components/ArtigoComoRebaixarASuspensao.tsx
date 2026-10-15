@@ -26,7 +26,7 @@ export const ArtigoComoRebaixarASuspensao: React.FC = () => {
             <span className="text-cyan-400">3 Passos Seguros</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-full h-full object-cover" />
               </div>
@@ -151,7 +151,7 @@ export const ArtigoComoRebaixarASuspensao: React.FC = () => {
           <div className="mt-12 p-6 bg-cyan-950/20 border border-cyan-900/50 rounded-2xl shadow-sm not-prose">
             <h3 className="text-xl font-bold text-white mb-2">Pensando em fazer um upgrade?</h3>
             <p className="text-zinc-300">
-              Se a sua suspensão atual já não dá conta do recado ou você quer subir o nível da sua pilotagem, confira a nossa seleção com a <a href="/melhor-suspensao-para-bike-aro-29" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">melhor suspensão para bike aro 29</a> do mercado e encontre a peça ideal para o seu estilo de pedal!
+              Se a sua suspensão atual já não dá conta do recado ou você quer subir o nível da sua pilotagem, confira a nossa seleção com a <a href="/melhor-suspensao-para-bike-aro-29/" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">melhor suspensão para bike aro 29</a> do mercado e encontre a peça ideal para o seu estilo de pedal!
             </p>
           </div>
         </div>

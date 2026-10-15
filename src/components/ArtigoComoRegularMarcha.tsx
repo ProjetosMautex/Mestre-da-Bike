@@ -59,7 +59,7 @@ export const ArtigoComoRegularMarcha: React.FC = () => {
             <span className="text-cyan-400">Guia Passo a Passo</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/rafael-martins" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/rafael-martins/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-full h-full object-cover" />
               </div>
@@ -146,7 +146,7 @@ export const ArtigoComoRegularMarcha: React.FC = () => {
           <p>Aquele "tec-tec" constante vindo da roda traseira não é normal, é um aviso.</p>
           <p>Se você nota que a corrente ameaça pular para a próxima marcha sozinha, estala quando você faz força na subida, ou demora mais de um segundo para engatar depois do clique, o sistema perdeu a calibração.</p>
           <p>Outro sinal gritante é a alavanca de marcha que fica "boba" (solta demais) ou dura a ponto de exigir muito do polegar.</p>
-          <p>Passei anos ouvindo ciclistas ignorarem esses pequenos sintomas iniciais para, meses depois, terem que <a href="/melhor-relacao-para-bike-29" className="text-cyan-400 hover:underline">trocar toda a relação</a>.</p>
+          <p>Passei anos ouvindo ciclistas ignorarem esses pequenos sintomas iniciais para, meses depois, terem que <a href="/melhor-relacao-para-bike-29/" className="text-cyan-400 hover:underline">trocar toda a relação</a>.</p>
           <p>Identificar esses estalos no comecinho salva o seu bolso e transforma o pedal.</p>
 
           <h2>Ferramentas e Preparação</h2>

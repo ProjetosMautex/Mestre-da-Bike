@@ -57,10 +57,10 @@ export const ArtigoKSWAro29: React.FC = () => {
           </h1>
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-gray-300 text-sm md:text-base">
             <div className="flex items-center gap-2">
-              <a href="/author/rafael-martins" className="hover:opacity-80 transition-opacity">
+              <a href="/author/rafael-martins/" className="hover:opacity-80 transition-opacity">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-8 h-8 rounded-full border border-cyan-500" />
               </a>
-              <a href="/author/rafael-martins" className="hover:text-cyan-400 transition-colors">Por Rafael Martins</a>
+              <a href="/author/rafael-martins/" className="hover:text-cyan-400 transition-colors">Por Rafael Martins</a>
             </div>
           </div>
         </div>
@@ -493,13 +493,13 @@ export const ArtigoKSWAro29: React.FC = () => {
         {/* SOBRE O AUTOR */}
         <div className="bg-cyan-950/20 p-8 rounded-2xl border border-cyan-900/50 shadow-sm mt-8 mb-16 flex flex-col md:flex-row items-center md:items-start gap-6">
           <div className="shrink-0 mx-auto md:mx-0">
-            <a href="/author/rafael-martins" className="hover:opacity-80 transition-opacity block">
+            <a href="/author/rafael-martins/" className="hover:opacity-80 transition-opacity block">
               <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-cyan-900/50 hover:border-cyan-500 transition-colors shadow-xl" />
             </a>
           </div>
           <div>
             <h2 className="text-sm font-bold text-cyan-400 uppercase tracking-widest mb-2">Sobre o Autor</h2>
-            <a href="/author/rafael-martins" className="hover:text-cyan-400 transition-colors">
+            <a href="/author/rafael-martins/" className="hover:text-cyan-400 transition-colors">
               <h3 className="text-2xl font-bold text-white mb-4">Rafael Martins</h3>
             </a>
             <p className="text-zinc-300 leading-relaxed text-lg">

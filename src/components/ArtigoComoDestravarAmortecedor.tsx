@@ -26,7 +26,7 @@ export const ArtigoComoDestravarAmortecedor: React.FC = () => {
             <span className="text-cyan-400">em Casa</span>
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-zinc-400">
-            <a href="/author/lucas-almeida" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="/author/lucas-almeida/" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <div className="w-8 h-8 rounded-full bg-cyan-900/50 flex items-center justify-center border border-cyan-500/30 overflow-hidden">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Lucas Almeida.webp" alt="Lucas Almeida" className="w-full h-full object-cover" />
               </div>
@@ -141,7 +141,7 @@ export const ArtigoComoDestravarAmortecedor: React.FC = () => {
           <div className="mt-12 p-6 bg-cyan-950/20 border border-cyan-900/50 rounded-2xl shadow-sm not-prose">
             <h3 className="text-xl font-bold text-white mb-2">Pensando em fazer um upgrade?</h3>
             <p className="text-zinc-300">
-              Se o seu garfo já passou do ponto de manutenção ou você quer subir o nível do seu equipamento, não deixe de conferir o nosso guia com a <a href="/melhor-suspensao-para-bike-aro-29" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">melhor suspensão para bike aro 29</a> do mercado atual.
+              Se o seu garfo já passou do ponto de manutenção ou você quer subir o nível do seu equipamento, não deixe de conferir o nosso guia com a <a href="/melhor-suspensao-para-bike-aro-29/" className="text-cyan-400 hover:text-cyan-300 font-bold underline underline-offset-4 decoration-cyan-500/30 hover:decoration-cyan-400 transition-all">melhor suspensão para bike aro 29</a> do mercado atual.
             </p>
           </div>
         </div>

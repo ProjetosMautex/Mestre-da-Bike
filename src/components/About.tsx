@@ -12,13 +12,13 @@ export default function About() {
             Sobre Nós
           </h1>
           <p className="text-xl text-zinc-400">
-            Conheça o <strong className="text-cyan-400">Pedal na Trilha</strong>
+            Conheça o <strong className="text-cyan-400">Mestre da Bike</strong>
           </p>
         </header>
 
         <article className="prose prose-invert prose-lg max-w-none prose-cyan">
           <p>
-            O <strong>Pedal na Trilha</strong> é um portal especializado em <strong>bicicletas aro 29</strong>.
+            O <strong>Mestre da Bike</strong> é um portal especializado em <strong>bicicletas aro 29</strong>.
           </p>
           <p>
             Nosso objetivo é ajudar você a conhecer melhor os modelos, marcas e componentes encontrados nesse segmento e, principalmente, facilitar a pesquisa antes de escolher uma bicicleta.
@@ -35,7 +35,7 @@ export default function About() {
             <li>Qual modelo combina melhor com determinado tipo de uso?</li>
           </ul>
           <p>
-            Foi pensando nessas perguntas que criamos o <strong>Pedal na Trilha</strong>. Nosso trabalho é pesquisar, organizar e explicar informações sobre bicicletas aro 29 para que você consiga comparar diferentes opções e entender melhor o que está comprando.
+            Foi pensando nessas perguntas que criamos o <strong>Mestre da Bike</strong>. Nosso trabalho é pesquisar, organizar e explicar informações sobre bicicletas aro 29 para que você consiga comparar diferentes opções e entender melhor o que está comprando.
           </p>
 
           <hr className="my-12 border-cyan-900/30" />
@@ -72,7 +72,7 @@ export default function About() {
             Um Portal Especializado em Bicicletas Aro 29
           </h2>
           <p>
-            Existem muitos sites que falam sobre bicicletas de maneira geral. O <strong>Pedal na Trilha</strong> segue uma proposta diferente.
+            Existem muitos sites que falam sobre bicicletas de maneira geral. O <strong>Mestre da Bike</strong> segue uma proposta diferente.
           </p>
           <p>
             Nosso foco é construir uma fonte de informação especializada em <strong>aro 29</strong>, aprofundando o conteúdo dentro desse segmento. Isso permite que nosso trabalho vá além de simplesmente listar bicicletas.
@@ -141,7 +141,7 @@ export default function About() {
             Nossa Equipe Editorial
           </h2>
           <p>
-            O conteúdo do <strong>Pedal na Trilha</strong> é desenvolvido por dois profissionais com funções complementares. Um é responsável pela pesquisa de <strong>marcas e modelos</strong>. O outro concentra-se na parte <strong>técnica e prática das bicicletas aro 29</strong>. Essa divisão permite que cada conteúdo seja desenvolvido a partir de uma perspectiva específica.
+            O conteúdo do <strong>Mestre da Bike</strong> é desenvolvido por dois profissionais com funções complementares. Um é responsável pela pesquisa de <strong>marcas e modelos</strong>. O outro concentra-se na parte <strong>técnica e prática das bicicletas aro 29</strong>. Essa divisão permite que cada conteúdo seja desenvolvido a partir de uma perspectiva específica.
           </p>
 
           {authors.map((author, index) => (
@@ -158,7 +158,7 @@ export default function About() {
                 </a>
                 <p className="text-sm text-zinc-400 uppercase tracking-wider font-semibold mb-4">{author.role}</p>
                 {author.paragraphs.map((p, i) => (
-                  <p key={i} dangerouslySetInnerHTML={{ __html: p.replace(/Pedal na Trilha/g, '<strong>Pedal na Trilha</strong>') }} />
+                  <p key={i} dangerouslySetInnerHTML={{ __html: p.replace(/Mestre da Bike/g, '<strong>Mestre da Bike</strong>') }} />
                 ))}
                 <blockquote className="border-l-4 border-cyan-500 pl-4 my-6 italic text-zinc-300 font-medium">
                   {author.quote.split('—').map((part, i, arr) => 
@@ -199,18 +199,18 @@ export default function About() {
 
           <h2 className="text-3xl font-bold text-zinc-100 mt-12">Independência Editorial</h2>
           <p>
-            O <strong>Pedal na Trilha</strong> busca manter uma abordagem editorial independente. Nosso objetivo não é transformar todas as marcas analisadas em recomendações automáticas. Podemos apresentar características positivas, limitações, diferenças e aspectos que merecem atenção em diferentes modelos.
+            O <strong>Mestre da Bike</strong> busca manter uma abordagem editorial independente. Nosso objetivo não é transformar todas as marcas analisadas em recomendações automáticas. Podemos apresentar características positivas, limitações, diferenças e aspectos que merecem atenção em diferentes modelos.
           </p>
           <p>
             O portal também pode participar de programas de afiliados. Quando um conteúdo possuir links de afiliados, poderemos receber uma comissão caso o leitor realize uma compra por meio desses links, sem custo adicional para ele. A existência desses links não significa que uma marca ou produto receberá uma avaliação positiva.
           </p>
 
-          <h2 className="text-3xl font-bold text-zinc-100 mt-12">Por Que Criamos o Pedal na Trilha?</h2>
+          <h2 className="text-3xl font-bold text-zinc-100 mt-12">Por Que Criamos o Mestre da Bike?</h2>
           <p>
             Escolher uma bicicleta pode parecer simples até o momento em que o consumidor começa a pesquisar. De repente aparecem dezenas de marcas, diferentes tamanhos de quadro, transmissões, suspensões, freios, pneus e configurações. Para quem já conhece bicicletas, muitas dessas informações são familiares. Para quem está começando, podem gerar ainda mais dúvidas.
           </p>
           <p>
-            Foi para facilitar essa pesquisa que criamos o <strong>Pedal na Trilha</strong>. Queremos construir um portal onde você possa pesquisar uma bicicleta antes de comprar, entender melhor suas características e encontrar explicações para as dúvidas que surgem durante o uso.
+            Foi para facilitar essa pesquisa que criamos o <strong>Mestre da Bike</strong>. Queremos construir um portal onde você possa pesquisar uma bicicleta antes de comprar, entender melhor suas características e encontrar explicações para as dúvidas que surgem durante o uso.
           </p>
           <p className="text-xl text-cyan-400 font-bold text-center my-8">
             Pesquisar bicicletas. Comparar modelos. Explicar características. Ajudar você a escolher melhor.
@@ -221,11 +221,11 @@ export default function About() {
             Encontrou alguma informação que precisa ser atualizada? Tem uma sugestão de marca ou modelo para analisarmos? Encontrou um erro em algum conteúdo? Possui uma informação que pode contribuir para melhorar uma análise?
           </p>
           <p>
-            Entre em contato conosco. O <strong>Pedal na Trilha</strong> está sempre aberto a sugestões, correções e informações que possam tornar nosso conteúdo mais útil para os leitores.
+            Entre em contato conosco. O <strong>Mestre da Bike</strong> está sempre aberto a sugestões, correções e informações que possam tornar nosso conteúdo mais útil para os leitores.
           </p>
           <p className="text-center mt-12">
-            <strong>Obrigado por visitar o Pedal na Trilha.</strong><br/>
-            Pedal na Trilha — <em className="text-cyan-400">informação especializada em bicicletas aro 29.</em>
+            <strong>Obrigado por visitar o Mestre da Bike.</strong><br/>
+            Mestre da Bike — <em className="text-cyan-400">informação especializada em bicicletas aro 29.</em>
           </p>
         </article>
       </div>

@@ -1,7 +1,7 @@
 import sharp from 'sharp';
 
 const bgSrc = 'C:\\Users\\Murilo vieira\\.gemini\\antigravity\\brain\\990eb553-7453-4342-8caf-0c0e8e0ef7f9\\bike_infographic_bg_1788646594385.jpg';
-const dest = 'C:\\Users\\Murilo vieira\\Documents\\projetos\\pedal na trilha\\public\\images\\blog\\1\\tabela-tamanho-quadro-bike-aro-29.jpg';
+const dest = 'C:\\Users\\Murilo vieira\\Documents\\projetos\\Mestre da Bike\\public\\images\\blog\\1\\tabela-tamanho-quadro-bike-aro-29.jpg';
 
 const svgOverlay = `
 <svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">

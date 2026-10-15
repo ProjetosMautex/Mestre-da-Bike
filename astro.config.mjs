@@ -7,7 +7,8 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://pedalnatrilha.com',
+  site: 'https://mestredabike.com',
+  trailingSlash: 'always',
   integrations: [react(), sitemap()],
 
   vite: {

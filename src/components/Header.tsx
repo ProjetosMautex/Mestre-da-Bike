@@ -22,7 +22,7 @@ export default function Header() {
             <a href="/" className="flex items-center gap-2 group">
               <Bike className="w-8 h-8 text-cyan-400 group-hover:text-cyan-300 transition-colors" />
               <span className="font-extrabold text-xl tracking-tight text-gradient">
-                Pedal na Trilha
+                Mestre da Bike
               </span>
             </a>
           </div>
@@ -30,8 +30,8 @@ export default function Header() {
           {/* Desktop Menu */}
           <nav className="hidden md:flex items-center space-x-8">
             <a href="/" className="text-zinc-300 hover:text-cyan-400 transition-colors font-medium">Início</a>
-            <a href="/sobre-nos" className="text-zinc-300 hover:text-cyan-400 transition-colors font-medium">Sobre Nós</a>
-            <a href="/contato" className="text-zinc-300 hover:text-cyan-400 transition-colors font-medium">Contato</a>
+            <a href="/sobre-nos/" className="text-zinc-300 hover:text-cyan-400 transition-colors font-medium">Sobre Nós</a>
+            <a href="/contato/" className="text-zinc-300 hover:text-cyan-400 transition-colors font-medium">Contato</a>
             
             {/* Desktop Search */}
             <div className="relative flex items-center ml-4">
@@ -100,8 +100,8 @@ export default function Header() {
         <div className="md:hidden bg-[#18181b] border-b border-cyan-900/30">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a href="/" className="block px-3 py-2 rounded-md text-base font-medium text-zinc-300 hover:text-cyan-400 hover:bg-zinc-800">Início</a>
-            <a href="/sobre-nos" className="block px-3 py-2 rounded-md text-base font-medium text-zinc-300 hover:text-cyan-400 hover:bg-zinc-800">Sobre Nós</a>
-            <a href="/contato" className="block px-3 py-2 rounded-md text-base font-medium text-zinc-300 hover:text-cyan-400 hover:bg-zinc-800">Contato</a>
+            <a href="/sobre-nos/" className="block px-3 py-2 rounded-md text-base font-medium text-zinc-300 hover:text-cyan-400 hover:bg-zinc-800">Sobre Nós</a>
+            <a href="/contato/" className="block px-3 py-2 rounded-md text-base font-medium text-zinc-300 hover:text-cyan-400 hover:bg-zinc-800">Contato</a>
           </div>
         </div>
       )}

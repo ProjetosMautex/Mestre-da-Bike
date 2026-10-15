@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ArtigoBicicletaCriptoAro29Boa } from '../components/ArtigoBicicletaCriptoAro29Boa.tsx';
+
+// Aqui você define o SEO da página
+const title = "Bicicleta Cripto Aro 29 é Boa? Análise de Freios e Marchas";
+const description = "A Bicicleta Cripto Aro 29 é boa para o seu dia a dia? Descubra a verdade sobre as marchas Paco, trocadores rotativos e se ela exige upgrades antes do primeiro pedal!";
+---
+
+<Layout title={title} description={description}>
+  <main className="bg-[#09090b] min-h-screen">
+    {/* A prop client:load faz o componente React hidratar assim que a página carregar */}
+    <ArtigoBicicletaCriptoAro29Boa client:load />
+  </main>
+</Layout>

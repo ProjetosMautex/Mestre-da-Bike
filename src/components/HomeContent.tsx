@@ -17,7 +17,7 @@ export default function HomeContent() {
             Descubra as melhores bicicletas aro 29 do mercado. Análises detalhadas, comparativos, avaliações de marcas e guias completos para ajudar você a fazer a melhor escolha.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <a href="/blog" className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-zinc-950 bg-cyan-500 hover:bg-cyan-500 transition-colors shadow-[0_0_20px_rgba(16,185,129,0.3)]">
+            <a href="/blog/" className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-zinc-950 bg-cyan-500 hover:bg-cyan-500 transition-colors shadow-[0_0_20px_rgba(16,185,129,0.3)]">
               Acessar o Blog
             </a>
           </div>
@@ -62,19 +62,11 @@ export default function HomeContent() {
             <h2 className="text-3xl md:text-5xl font-bold mb-4 text-zinc-100">Acerte no Tamanho do Quadro</h2>
             <p className="text-zinc-400 text-lg">
               Um dos maiores erros na hora de comprar uma bicicleta aro 29 é escolher o quadro errado. 
-              Veja nossa tabela visual abaixo e use o simulador para descobrir o tamanho perfeito para você!
+              Use o simulador abaixo para descobrir o tamanho perfeito para você!
             </p>
           </div>
           
-          <img 
-            loading="lazy" 
-            width="800" 
-            height="1100" 
-            src="/images/blog/1/tabela-tamanho-quadro-bike-aro-29.webp" 
-            alt="Infográfico mostrando a tabela de tamanho de quadro por altura para bicicleta aro 29" 
-            className="w-full rounded-2xl shadow-2xl border border-zinc-800 mb-8 object-contain" 
-          />
-          
+
           <BikeFitSimulator />
         </div>
       </section>

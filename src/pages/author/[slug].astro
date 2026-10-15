@@ -14,7 +14,7 @@ export function getStaticPaths() {
 const { author } = Astro.props;
 ---
 
-<Layout title={`${author.name} | Pedal na Trilha`} description={author.role}>
+<Layout title={`${author.name} | Mestre da Bike`} description={author.role}>
   <div className="max-w-4xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
     <div className="bg-[#18181b] rounded-2xl border border-cyan-900/30 overflow-hidden shadow-2xl">
       <div className="bg-gradient-to-r from-cyan-900/40 to-transparent p-8 md:p-12 border-b border-cyan-900/30 flex flex-col md:flex-row items-center md:items-start gap-8">
@@ -31,7 +31,7 @@ const { author } = Astro.props;
         <article className="prose prose-invert prose-lg max-w-none prose-cyan">
           <h2 className="text-2xl font-bold text-zinc-100 mb-6">Sobre o Autor</h2>
           {author.paragraphs.map((p) => (
-            <p set:html={p.replace(/Pedal na Trilha/g, '<strong>Pedal na Trilha</strong>')} />
+            <p set:html={p.replace(/Mestre da Bike/g, '<strong>Mestre da Bike</strong>')} />
           ))}
           
           <blockquote className="border-l-4 border-cyan-500 pl-6 my-10 italic text-zinc-300 text-xl font-medium leading-relaxed bg-cyan-900/10 py-6 pr-6 rounded-r-lg">
@@ -48,7 +48,7 @@ const { author } = Astro.props;
     </div>
     
     <div className="mt-12 text-center">
-      <a href="/sobre-nos" className="inline-flex items-center justify-center bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-bold py-3 px-6 rounded-lg transition-colors">
+      <a href="/sobre-nos/" className="inline-flex items-center justify-center bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-bold py-3 px-6 rounded-lg transition-colors">
         &larr; Voltar para a Equipe
       </a>
     </div>

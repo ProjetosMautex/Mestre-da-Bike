@@ -79,10 +79,10 @@ export const ArtigoFirstAro29: React.FC = () => {
           </h1>
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-gray-300 text-sm md:text-base">
             <div className="flex items-center gap-2">
-              <a href="/author/rafael-martins" className="hover:opacity-80 transition-opacity">
+              <a href="/author/rafael-martins/" className="hover:opacity-80 transition-opacity">
                 <img loading="lazy" width="800" height="600" src="/images/autores/Rafael Martins.webp" alt="Rafael Martins" className="w-8 h-8 rounded-full border border-cyan-500" />
               </a>
-              <a href="/author/rafael-martins" className="hover:text-cyan-400 transition-colors">Por Rafael Martins</a>
+              <a href="/author/rafael-martins/" className="hover:text-cyan-400 transition-colors">Por Rafael Martins</a>
             </div>
           </div>
         </div>
